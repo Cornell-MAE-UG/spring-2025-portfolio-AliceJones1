@@ -1,13 +1,33 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: CAD Modelling
+description: Modelling of a Pencil Sharpener
+technologies: [AUtodesk Fusion 260]
+image: /assets/images/pencil_sharpener_rendering.png
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+<br>In my Mechanical Syntheis and Design Class, we were tasked with modelling an everyday object in CAD and generating renders.<br><br> I chose a pencil sharpener and worked to model the indiviual components. I took time to meaure the key dimensions of a sharpener to make sure that it was modelled accurately.<br>
+
+ ---
+ <br>
+**Summary of the Parts**
+- Sharpener Body:
+  - This was the hardest component to CAD. I started with the sketch of the outer profile and
+extruded it. 
+  - I then cut out the slots in the top face using the extrude feature. I then made the
+main hole on the side of the sharpener. After I used an offset plane deeper into the sharpener to
+sketch a smaller circle. 
+  - I used the loft tool to make the space for the pencil. Finally I used a draft
+to make the sharpener angled like in the real thing.
+- Blade:
+  - I sketched out the side profile and then extruded to make the blade. I made a hole in the blade
+in the same place as on the main body.
+- Sharpener Bin:
+  - For this I made a solid sketch and then revolved it 360 degrees. I shelled out the center before
+adding threading on the top of the bin.
+- Sharpener Lid:
+  - Similar to the bin, I started with a solid sketch which I revolved. I then shelled out the lid and
+added threads to screw onto the bin.
 
