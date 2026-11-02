@@ -2,7 +2,7 @@
 layout: project
 title: Fluid Mechanics Dissection
 description: Modelling of a Pencil Sharpener
-technologies: [AUtodesk Fusion 260]
+technologies: [Autodesk Fusion 260]
 image: /assets/images/pencil_sharpener_rendering.png
 ---
 
